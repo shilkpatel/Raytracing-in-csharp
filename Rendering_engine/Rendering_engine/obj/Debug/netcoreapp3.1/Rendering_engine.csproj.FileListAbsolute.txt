@@ -12,7 +12,6 @@ C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\R
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.AssemblyInfoInputs.cache
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.AssemblyInfo.cs
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.csproj.CoreCompileInputs.cache
-C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.csproj.CopyComplete
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.dll
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.pdb
 C:\Users\shilp\OneDrive\Documents\GitHub\Raytracing-in-csharp\Rendering_engine\Rendering_engine\obj\Debug\netcoreapp3.1\Rendering_engine.genruntimeconfig.cache

@@ -30,7 +30,7 @@ namespace Rendering_engine
 
         public double[] ray_colour()
         {
-            vec sphere_origin = new vec(0, 0, 4);
+            vec sphere_origin = new vec(0, 0, 10);
             double radius = 1;
             if (hit_sphere(sphere_origin, radius)) 
             {
